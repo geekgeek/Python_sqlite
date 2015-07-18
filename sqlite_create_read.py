@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #http://zetcode.com/db/sqlitepythontutorial/
-#Create table and 
+#Create table, rows and read data
 import sqlite3 as lite
 import sys
 
